@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-22)
+## Unreleased (2025-03-25)
 
 <section class="reverts">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`6001e62`](https://github.com/stdlib-js/stdlib/commit/6001e62175bc901f0ca23e6b8854b88075d0c869) - **refactor:** replace `evalpoly` with compiled polyval functions [(#6368)](https://github.com/stdlib-js/stdlib/pull/6368) _(by Karan Anand)_
 -   [`6187773`](https://github.com/stdlib-js/stdlib/commit/6187773d4d95c73e0e8a8f6c43dcd53d5323f9d2) - **bench:** update random value generation [(#6298)](https://github.com/stdlib-js/stdlib/pull/6298) _(by Harsh)_
 -   [`b0e68c5`](https://github.com/stdlib-js/stdlib/commit/b0e68c5bc8ee985794eb2ea1791c9337cd15fbd0) - **chore:** update to modern benchmark Makefile _(by Philipp Burckhardt)_
 -   [`1dd3fdc`](https://github.com/stdlib-js/stdlib/commit/1dd3fdcf42490e1d3c93fa3a21a65aca69454932) - **revert:** chore: update to modern benchmark Makefile _(by Philipp Burckhardt)_
@@ -37,9 +38,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Harsh
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
