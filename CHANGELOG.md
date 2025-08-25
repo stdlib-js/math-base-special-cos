@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-09)
+## Unreleased (2025-08-25)
 
 <section class="reverts">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`e3a0d08`](https://github.com/stdlib-js/stdlib/commit/e3a0d08c172ac04192a0f0b5d2e9e8543cbcdba8) - **chore:** add structured package data for `math/base/special/cos` [(#7962)](https://github.com/stdlib-js/stdlib/pull/7962) _(by Nakul Krishnakumar)_
 -   [`37d4438`](https://github.com/stdlib-js/stdlib/commit/37d443898b8068b4f2003b839ec29e4afc72fdbe) - **docs:** fix return value _(by Karan Anand)_
 -   [`1bb6df3`](https://github.com/stdlib-js/stdlib/commit/1bb6df3267f4100a30d0c71c05197716cd314fda) - **docs:** replace manual `for` loop in examples [(#6611)](https://github.com/stdlib-js/stdlib/pull/6611) _(by Harsh)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
@@ -42,10 +43,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Harsh
 -   Karan Anand
+-   Nakul Krishnakumar
 -   Philipp Burckhardt
 
 </section>
