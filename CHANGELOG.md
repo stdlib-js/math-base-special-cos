@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-25)
+## Unreleased (2026-01-30)
 
 <section class="reverts">
 
@@ -25,11 +25,11 @@
 -   [`6b02e15`](https://github.com/stdlib-js/stdlib/commit/6b02e1513f60505465a661cc72cfba714f13f4b8) - **docs:** update descriptions _(by Athan Reines)_
 -   [`e3a0d08`](https://github.com/stdlib-js/stdlib/commit/e3a0d08c172ac04192a0f0b5d2e9e8543cbcdba8) - **chore:** add structured package data for `math/base/special/cos` [(#7962)](https://github.com/stdlib-js/stdlib/pull/7962) _(by Nakul Krishnakumar)_
 -   [`37d4438`](https://github.com/stdlib-js/stdlib/commit/37d443898b8068b4f2003b839ec29e4afc72fdbe) - **docs:** fix return value _(by Karan Anand)_
--   [`1bb6df3`](https://github.com/stdlib-js/stdlib/commit/1bb6df3267f4100a30d0c71c05197716cd314fda) - **docs:** replace manual `for` loop in examples [(#6611)](https://github.com/stdlib-js/stdlib/pull/6611) _(by Harsh)_
+-   [`1bb6df3`](https://github.com/stdlib-js/stdlib/commit/1bb6df3267f4100a30d0c71c05197716cd314fda) - **docs:** replace manual `for` loop in examples [(#6611)](https://github.com/stdlib-js/stdlib/pull/6611) _(by Harsh Yadav)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`d0c1c2b`](https://github.com/stdlib-js/stdlib/commit/d0c1c2b9a307016b894d7fa3d500c98558bbe197) - **test:** add tests for IEEE 754-2019 compliance [(#6558)](https://github.com/stdlib-js/stdlib/pull/6558) _(by Karan Anand)_
 -   [`6001e62`](https://github.com/stdlib-js/stdlib/commit/6001e62175bc901f0ca23e6b8854b88075d0c869) - **refactor:** replace `evalpoly` with compiled polyval functions [(#6368)](https://github.com/stdlib-js/stdlib/pull/6368) _(by Karan Anand)_
--   [`6187773`](https://github.com/stdlib-js/stdlib/commit/6187773d4d95c73e0e8a8f6c43dcd53d5323f9d2) - **bench:** update random value generation [(#6298)](https://github.com/stdlib-js/stdlib/pull/6298) _(by Harsh)_
+-   [`6187773`](https://github.com/stdlib-js/stdlib/commit/6187773d4d95c73e0e8a8f6c43dcd53d5323f9d2) - **bench:** update random value generation [(#6298)](https://github.com/stdlib-js/stdlib/pull/6298) _(by Harsh Yadav)_
 -   [`b0e68c5`](https://github.com/stdlib-js/stdlib/commit/b0e68c5bc8ee985794eb2ea1791c9337cd15fbd0) - **chore:** update to modern benchmark Makefile _(by Philipp Burckhardt)_
 -   [`1dd3fdc`](https://github.com/stdlib-js/stdlib/commit/1dd3fdcf42490e1d3c93fa3a21a65aca69454932) - **revert:** chore: update to modern benchmark Makefile _(by Philipp Burckhardt)_
 -   [`cdaf16f`](https://github.com/stdlib-js/stdlib/commit/cdaf16f9f3c05f153fcffbb00dab12412196cce6) - **chore:** update to modern benchmark Makefile _(by Philipp Burckhardt)_
@@ -47,7 +47,7 @@
 A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Nakul Krishnakumar
 -   Philipp Burckhardt
