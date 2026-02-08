@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cos@deno/mod.js';
+import cos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cos@v0.3.1-deno/mod.js';
 ```
 
 #### cos( x )
@@ -77,7 +77,7 @@ v = cos( NaN );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-two-pi@deno/mod.js';
-import cos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cos@deno/mod.js';
+import cos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cos@v0.3.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
