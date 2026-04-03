@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-03)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`2840211`](https://github.com/stdlib-js/stdlib/commit/2840211cbf8ce9d996acdf0d798dcf5e59e5c075) - **test:** migrate `math/base/special/cos` to ULP-based testing [(#11281)](https://github.com/stdlib-js/stdlib/pull/11281) _(by Nirmal Jyoti Biswas, Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Karan Anand
+-   Nirmal Jyoti Biswas
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
